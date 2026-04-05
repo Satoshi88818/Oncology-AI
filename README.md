@@ -3,9 +3,6 @@
 
 **Multimodal decision-support scaffold for whole-slide pathology imaging + genomics**
 
-![CancerAI Architecture](https://via.placeholder.com/800x300/0066cc/ffffff?text=CancerAI+v12+Architecture)  
-*(Replace with actual diagram once generated — see "Future Upgrades" section)*
-
 ## Clinical Disclaimer
 
 > ⚠️ **This system is intended as a research and decision-support scaffold only.**  
